@@ -5,7 +5,7 @@
 <!--–––––––––––––-->
 <!--–––––––––––––-->
 
-<!--FILE CREATE/READ-->
+<!--FILE CREATE/WRITE-->
 <!DOCTYPE html>
 <html>
 <body>
